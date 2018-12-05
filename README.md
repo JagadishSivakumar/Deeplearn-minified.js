@@ -3,6 +3,6 @@ Deeplearn.js is an open-source machine learning JavaScript library by Google, wh
 
 Get the Minified Javascript FrameWork of DeepLearn.js and include it in the script source:
           
-          <script src="deeplearnminfiy.js"></script>
+          <script src="deeplearnminfied.js"></script>
           <!--OR-->
           <script src="https://cdn.jsdelivr.net/npm/deeplearn@latest"></script>
